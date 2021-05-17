@@ -18,6 +18,8 @@ public class Principal extends JFrame implements ActionListener{
     private JButton b1,b2,b3,b4; 
       
 	public Principal() {
+	System.out.println("este es el primer mensaje");
+	System.out.println("este es el segundo mensaje");
 	
 	 setTitle("Ventana INICIAL.");
      setLayout(null);
